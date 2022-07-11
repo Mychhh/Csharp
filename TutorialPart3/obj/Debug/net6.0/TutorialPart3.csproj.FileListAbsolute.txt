@@ -1,0 +1,15 @@
+C:\Users\Hotdog\source\repos\TutorialPart3\bin\Debug\net6.0\TutorialPart3.exe
+C:\Users\Hotdog\source\repos\TutorialPart3\bin\Debug\net6.0\TutorialPart3.deps.json
+C:\Users\Hotdog\source\repos\TutorialPart3\bin\Debug\net6.0\TutorialPart3.runtimeconfig.json
+C:\Users\Hotdog\source\repos\TutorialPart3\bin\Debug\net6.0\TutorialPart3.dll
+C:\Users\Hotdog\source\repos\TutorialPart3\bin\Debug\net6.0\TutorialPart3.pdb
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.AssemblyInfoInputs.cache
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.AssemblyInfo.cs
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.dll
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\refint\TutorialPart3.dll
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.pdb
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\TutorialPart3.genruntimeconfig.cache
+C:\Users\Hotdog\source\repos\TutorialPart3\obj\Debug\net6.0\ref\TutorialPart3.dll

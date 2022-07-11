@@ -1,0 +1,11 @@
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\bin\Debug\07 Task Performance 1 - ARG.exe.config
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\bin\Debug\07 Task Performance 1 - ARG.exe
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\bin\Debug\07 Task Performance 1 - ARG.pdb
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\07 Task Performance 1 - ARG.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\07 Task Performance 1 - ARG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\_07_Task_Performance_1___ARG.Form1.resources
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\_07_Task_Performance_1___ARG.Properties.Resources.resources
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\07 Task Performance 1 - ARG.csproj.GenerateResource.cache
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\07 Task Performance 1 - ARG.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\07 Task Performance 1 - ARG.exe
+C:\Users\Hotdog\source\repos\07 Task Performance 1 - ARG\obj\Debug\07 Task Performance 1 - ARG.pdb

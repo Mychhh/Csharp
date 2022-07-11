@@ -1,0 +1,15 @@
+C:\Users\Hotdog\source\repos\NameSpacePractice\bin\Debug\net6.0\NameSpacePractice.exe
+C:\Users\Hotdog\source\repos\NameSpacePractice\bin\Debug\net6.0\NameSpacePractice.deps.json
+C:\Users\Hotdog\source\repos\NameSpacePractice\bin\Debug\net6.0\NameSpacePractice.runtimeconfig.json
+C:\Users\Hotdog\source\repos\NameSpacePractice\bin\Debug\net6.0\NameSpacePractice.dll
+C:\Users\Hotdog\source\repos\NameSpacePractice\bin\Debug\net6.0\NameSpacePractice.pdb
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.AssemblyInfoInputs.cache
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.AssemblyInfo.cs
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.dll
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\refint\NameSpacePractice.dll
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.pdb
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\NameSpacePractice.genruntimeconfig.cache
+C:\Users\Hotdog\source\repos\NameSpacePractice\obj\Debug\net6.0\ref\NameSpacePractice.dll

@@ -1,0 +1,15 @@
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\bin\Debug\net6.0\03 eLMS Activity 1.exe
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\bin\Debug\net6.0\03 eLMS Activity 1.deps.json
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\bin\Debug\net6.0\03 eLMS Activity 1.runtimeconfig.json
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\bin\Debug\net6.0\03 eLMS Activity 1.dll
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\bin\Debug\net6.0\03 eLMS Activity 1.pdb
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.AssemblyInfoInputs.cache
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.AssemblyInfo.cs
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.dll
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\refint\03 eLMS Activity 1.dll
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.pdb
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\03 eLMS Activity 1.genruntimeconfig.cache
+C:\Users\Hotdog\source\repos\03 eLMS Activity 1\obj\Debug\net6.0\ref\03 eLMS Activity 1.dll

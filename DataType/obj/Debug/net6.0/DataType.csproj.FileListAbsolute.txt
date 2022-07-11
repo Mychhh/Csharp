@@ -1,0 +1,15 @@
+C:\Users\Hotdog\source\repos\DataType\bin\Debug\net6.0\DataType.exe
+C:\Users\Hotdog\source\repos\DataType\bin\Debug\net6.0\DataType.deps.json
+C:\Users\Hotdog\source\repos\DataType\bin\Debug\net6.0\DataType.runtimeconfig.json
+C:\Users\Hotdog\source\repos\DataType\bin\Debug\net6.0\DataType.dll
+C:\Users\Hotdog\source\repos\DataType\bin\Debug\net6.0\DataType.pdb
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.AssemblyInfoInputs.cache
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.AssemblyInfo.cs
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.dll
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\refint\DataType.dll
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.pdb
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\DataType.genruntimeconfig.cache
+C:\Users\Hotdog\source\repos\DataType\obj\Debug\net6.0\ref\DataType.dll

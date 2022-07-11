@@ -1,0 +1,15 @@
+C:\Users\Hotdog\source\repos\HelloThere\bin\Debug\net6.0\HelloThere.exe
+C:\Users\Hotdog\source\repos\HelloThere\bin\Debug\net6.0\HelloThere.deps.json
+C:\Users\Hotdog\source\repos\HelloThere\bin\Debug\net6.0\HelloThere.runtimeconfig.json
+C:\Users\Hotdog\source\repos\HelloThere\bin\Debug\net6.0\HelloThere.dll
+C:\Users\Hotdog\source\repos\HelloThere\bin\Debug\net6.0\HelloThere.pdb
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.AssemblyInfoInputs.cache
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.AssemblyInfo.cs
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.dll
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\refint\HelloThere.dll
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.pdb
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\HelloThere.genruntimeconfig.cache
+C:\Users\Hotdog\source\repos\HelloThere\obj\Debug\net6.0\ref\HelloThere.dll

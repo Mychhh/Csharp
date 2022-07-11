@@ -1,0 +1,15 @@
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\bin\Debug\net6.0\02LaboratoryExcercise.exe
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\bin\Debug\net6.0\02LaboratoryExcercise.deps.json
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\bin\Debug\net6.0\02LaboratoryExcercise.runtimeconfig.json
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\bin\Debug\net6.0\02LaboratoryExcercise.dll
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\bin\Debug\net6.0\02LaboratoryExcercise.pdb
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.AssemblyInfoInputs.cache
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.AssemblyInfo.cs
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.dll
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\refint\02LaboratoryExcercise.dll
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.pdb
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\02LaboratoryExcercise.genruntimeconfig.cache
+C:\Users\Hotdog\source\repos\02LaboratoryExcercise\obj\Debug\net6.0\ref\02LaboratoryExcercise.dll
