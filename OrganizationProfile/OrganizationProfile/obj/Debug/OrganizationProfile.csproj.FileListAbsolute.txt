@@ -1,0 +1,12 @@
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.FrmRegistration.resources
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\Hotdog\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb

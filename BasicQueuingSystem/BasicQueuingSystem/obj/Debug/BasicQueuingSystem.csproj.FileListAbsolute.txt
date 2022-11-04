@@ -1,0 +1,13 @@
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.CashierWindowQueue.resources
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.QueuingForm.resources
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.Properties.Resources.resources
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.GenerateResource.cache
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.exe.config
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.exe
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.pdb
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.exe
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.pdb
+C:\Users\Hotdog\source\repos\BasicQueuingSystem\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.CustomerViewcs.resources

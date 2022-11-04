@@ -1,0 +1,12 @@
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe.config
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.pdb
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.Properties.Resources.resources
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.exe
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.pdb
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmConfirm.resources
+C:\Users\Hotdog\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.StudentInfoClass.resources
