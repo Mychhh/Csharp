@@ -1,0 +1,11 @@
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe.config
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.pdb
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.Form1.resources
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.Properties.Resources.resources
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.GenerateResource.cache
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.exe
+C:\Users\Hotdog\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.pdb
