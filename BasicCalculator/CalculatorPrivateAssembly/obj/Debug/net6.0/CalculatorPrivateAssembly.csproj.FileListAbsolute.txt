@@ -1,0 +1,12 @@
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.deps.json
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.dll
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.pdb
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.AssemblyInfo.cs
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.dll
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\refint\CalculatorPrivateAssembly.dll
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.pdb
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\ref\CalculatorPrivateAssembly.dll

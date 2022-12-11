@@ -1,0 +1,6 @@
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssemblyy\bin\Debug\CalculatorPrivateAssemblyy.dll
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssemblyy\bin\Debug\CalculatorPrivateAssemblyy.pdb
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssemblyy\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssemblyy\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssemblyy\obj\Debug\CalculatorPrivateAssemblyy.dll
+C:\Users\Hotdog\source\repos\BasicCalculator\CalculatorPrivateAssemblyy\obj\Debug\CalculatorPrivateAssemblyy.pdb
