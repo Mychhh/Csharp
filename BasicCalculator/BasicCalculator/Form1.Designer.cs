@@ -54,6 +54,7 @@
             this.txtBox_number1.Name = "txtBox_number1";
             this.txtBox_number1.Size = new System.Drawing.Size(342, 51);
             this.txtBox_number1.TabIndex = 1;
+            this.txtBox_number1.Text = "0";
             // 
             // txtBox_number2
             // 
@@ -63,11 +64,12 @@
             this.txtBox_number2.Name = "txtBox_number2";
             this.txtBox_number2.Size = new System.Drawing.Size(342, 51);
             this.txtBox_number2.TabIndex = 2;
+            this.txtBox_number2.Text = "0";
             // 
             // txtBox_Results
             // 
             this.txtBox_Results.BackColor = System.Drawing.SystemColors.InfoText;
-            this.txtBox_Results.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBox_Results.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBox_Results.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.txtBox_Results.Location = new System.Drawing.Point(41, 308);
             this.txtBox_Results.Multiline = true;
@@ -88,6 +90,8 @@
             // 
             // comboBox1
             // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
@@ -111,9 +115,9 @@
             this.Controls.Add(this.txtBox_number2);
             this.Controls.Add(this.txtBox_number1);
             this.Controls.Add(this.lbl_BasicCalculator);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "FrmBasicCalculator";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Basic Calculator";
             this.Load += new System.EventHandler(this.FrmBasicCalculator_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
